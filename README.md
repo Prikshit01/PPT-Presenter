@@ -3,7 +3,9 @@
 Ease of presenting ppt with the help of hand gestures.
 # Libraries Used
 1.OpenCV
+
 2.cvZone hand detector tracking module
+
 3.numpy
 # Various Gestures
 # gesture 1: Thumb represent go back
